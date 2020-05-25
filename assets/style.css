@@ -7,11 +7,11 @@ body {
     margin: 0 auto;
 }
 
-nav, ul {
-    list-style: none;
+nav, lu {
     display: flex;
+    list-style: none;
     background:aliceblue
 }
-nav, ul, ui {
+nav, lu, li {
     padding: 5px 
 }
